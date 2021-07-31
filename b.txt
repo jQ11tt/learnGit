@@ -1,1 +1,2 @@
 Hello B 
+note put in master branch
